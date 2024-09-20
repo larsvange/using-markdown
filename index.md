@@ -2,5 +2,15 @@
 ## And another one
 ### Third
 Maybe some text
+## Code
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
 ## Here comes the image
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of me](https://avatars.githubusercontent.com/u/157707975?v=4)
