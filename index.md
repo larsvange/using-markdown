@@ -2,4 +2,5 @@
 ## And another one
 ### Third
 Maybe some text
-## Level 2
+## Here comes the image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
